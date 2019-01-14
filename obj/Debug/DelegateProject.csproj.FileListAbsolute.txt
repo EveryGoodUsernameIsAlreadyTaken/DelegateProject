@@ -1,0 +1,10 @@
+C:\Users\hyunuk\source\repos\DelegateProject\DelegateProject\obj\Debug\DelegateProject.csprojResolveAssemblyReference.cache
+C:\Users\hyunuk\source\repos\DelegateProject\DelegateProject\obj\Debug\DelegateProject.fmMain.resources
+C:\Users\hyunuk\source\repos\DelegateProject\DelegateProject\obj\Debug\DelegateProject.Properties.Resources.resources
+C:\Users\hyunuk\source\repos\DelegateProject\DelegateProject\obj\Debug\DelegateProject.csproj.GenerateResource.Cache
+C:\Users\hyunuk\source\repos\DelegateProject\DelegateProject\obj\Debug\DelegateProject.csproj.CoreCompileInputs.cache
+C:\Users\hyunuk\source\repos\DelegateProject\DelegateProject\bin\Debug\DelegateProject.exe.config
+C:\Users\hyunuk\source\repos\DelegateProject\DelegateProject\bin\Debug\DelegateProject.exe
+C:\Users\hyunuk\source\repos\DelegateProject\DelegateProject\bin\Debug\DelegateProject.pdb
+C:\Users\hyunuk\source\repos\DelegateProject\DelegateProject\obj\Debug\DelegateProject.exe
+C:\Users\hyunuk\source\repos\DelegateProject\DelegateProject\obj\Debug\DelegateProject.pdb
